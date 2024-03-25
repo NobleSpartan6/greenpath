@@ -1,8 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Navbar from './Navbar';
+import { ThemeProvider } from '@mui/material/styles';
 import MajorRequirements from './MajorRequirements';
+import theme from './theme';
 import './App.css';
+import Navbar from './Navbar';
 
 const HomePage = () => {
   return (
@@ -27,11 +29,12 @@ const HomePage = () => {
 };
 
 // Placeholder components for other routes
-const CoursesPage = () => <div>Courses Page Content</div>;
-const AboutPage = () => <div>About Page Content</div>;
+const CoursesPage = () =><><Navbar/> <div class = "major-requirements">Courses Page Content</div></> ;
+const AboutPage = () => <><Navbar/><div class = "major-requirements">About Page Content</div>;</>
 
 function App() {
   return (
+    <ThemeProvider theme={theme}>
     <Router>
       <div className="App">
         <Routes>
@@ -43,6 +46,7 @@ function App() {
         </Routes>
       </div>
     </Router>
+    </ThemeProvider>
   );
 }
 

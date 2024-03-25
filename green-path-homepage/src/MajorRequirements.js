@@ -1,6 +1,7 @@
 // src/MajorRequirements.js
 import React, { useState } from 'react';
 import Navbar from './Navbar';
+import { Container, Typography, Select, MenuItem, Card, CardContent, Box } from '@mui/material';
 
 const MajorRequirements = () => {
   
@@ -42,33 +43,53 @@ const MajorRequirements = () => {
   const selectedMajorRequirements = requirements[selectedMajor];
 
   return (
-    <>
-   <Navbar/>
-    <div className="major-requirements">
-      <h1>Major Requirements</h1>
-      <select value={selectedMajor} onChange={handleMajorChange}>
-        <option value="">Select Your Major</option>
-        {majors.map((major) => (
-          <option key={major.id} value={major.id}>
-            {major.name}
-          </option>
-        ))}
-      </select>
+<>
+      <Navbar/>
+      <Container maxWidth="md" sx={{ mt: 4 }}>
+        <Typography variant="h4" component="h1" gutterBottom>
+          Major Requirements
+        </Typography>
+        <Box sx={{ minWidth: 120 }}>
+          <Select
+            value={selectedMajor}
+            onChange={handleMajorChange}
+            displayEmpty
+            fullWidth
+            variant="outlined"
+            sx={{ mb: 3 }}
+          >
+            <MenuItem value="" disabled>
+              <em>Select Your Major</em>
+            </MenuItem>
+            {majors.map((major) => (
+              <MenuItem key={major.id} value={major.id}>
+                {major.name}
+              </MenuItem>
+            ))}
+          </Select>
+        </Box>
+        {selectedMajorRequirements && (
+          <>
+            <Typography variant="h5" sx={{ mt: 2, mb: 1 }}>
+              Core Requirements
+            </Typography>
+            <Box sx={{ display: 'flex', flexDirection: 'column', mb: 2 }}>
+              {selectedMajorRequirements.coreRequirements &&
+                renderCourseCards(selectedMajorRequirements.coreRequirements)}
+            </Box>
 
-      {selectedMajorRequirements && (
-        <div>
-          <h2>Core Requirements</h2>
-          {selectedMajorRequirements.coreRequirements &&
-            renderCourseCards(selectedMajorRequirements.coreRequirements)}
+            <Typography variant="h5" sx={{ mt: 2, mb: 1 }}>
+              Technical Electives
+            </Typography>
+            <Box sx={{ display: 'flex', flexDirection: 'column', mb: 2 }}>
+              {selectedMajorRequirements.technicalElectives &&
+                renderCourseCards(selectedMajorRequirements.technicalElectives)}
+            </Box>
 
-          <h2>Technical Electives</h2>
-          {selectedMajorRequirements.technicalElectives &&
-            renderCourseCards(selectedMajorRequirements.technicalElectives)}
-
-          {/* ... render other requirement categories similarly */}
-        </div>
-      )}
-    </div>
+            {/* Render other requirement categories similarly */}
+          </>
+        )}
+      </Container>
     </>
   );
 };
