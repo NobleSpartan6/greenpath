@@ -17,20 +17,31 @@
   align-items: center;
 }
 
-.logo {
-  font-size: 2rem;
-}
-
 .navbar {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4CAF50; /* Or any color you prefer */
+  padding: 0.5rem 1rem;
 }
 
-.nav-link {
+.navbar .nav-links {
+  margin-left: auto; /* This will push the nav links to the right */
+  display: flex;
+  align-items: center;
+}
+
+.navbar .nav-links a {
   color: white;
   text-decoration: none;
-  margin-left: 1rem;
+  padding: 0 1rem;
 }
 
+.navbar .logo {
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
 .main-content {
   padding: 1rem;
 }
@@ -51,4 +62,22 @@
 
 .footer p {
   text-align: center;
+}
+
+.major-requirements{
+  max-width: fit-content;
+  margin-inline: auto;
+  padding: 0.5rem;
+}
+
+.major-requirements select{
+  top: auto;
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+.course-card {
+  border: 1px solid #ccc;
+  margin: 1rem;
+  padding: 1rem;
 }

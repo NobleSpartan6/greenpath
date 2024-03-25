@@ -1,19 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Navbar from './Navbar';
+import MajorRequirements from './MajorRequirements';
 import './App.css';
 
 const HomePage = () => {
   return (
     <div className="homepage">
-      <header className="header">
-        <div className="logo">Green Path</div>
-        <nav className="navbar">
-          <Link to="/" className="nav-link">Home</Link>
-          <Link to="/courses" className="nav-link">Browse Courses</Link>
-          <Link to="/requirements" className="nav-link">Major Requirements</Link>
-          <Link to="/about" className="nav-link">About</Link>
-        </nav>
-      </header>
+       <Navbar />
       <main className="main-content">
         <section className="intro-section">
           <h1>Introduction to the Website</h1>
@@ -34,7 +28,6 @@ const HomePage = () => {
 
 // Placeholder components for other routes
 const CoursesPage = () => <div>Courses Page Content</div>;
-const MajorRequirementsPage = () => <div>Major Requirements Page Content</div>;
 const AboutPage = () => <div>About Page Content</div>;
 
 function App() {
@@ -44,8 +37,8 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/courses" element={<CoursesPage />} />
-          <Route path="/requirements" element={<MajorRequirementsPage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/requirements" element={<MajorRequirements />} />
           {/* Add more routes as needed */}
         </Routes>
       </div>
