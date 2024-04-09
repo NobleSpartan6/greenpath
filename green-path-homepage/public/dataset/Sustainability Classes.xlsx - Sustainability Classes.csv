@@ -1,0 +1,377 @@
+Dept,Course #,Title,Semester,Credit,Faculty,Crosslists
+AEM,1500,An Introduction to the Economics of Environmental and Natural Resources,Spring,3,C. Kling,
+AEM,1600,The Buisness of Modern Medicine,Fall,1,R. Karpman,
+AEM,2000,Contemporary Controversies in the Global Economy,Spring,3,C. B. Barrett,
+AEM,2050,Introduction to Agricultural Finance,Spring,3,C. Wolf,
+AEM,2110,The Business of Biofuels,Fall,1.5,H. de Gorter,
+AEM,2350,Introduction To The Economics Of Development,"Fall, Summer",3,"Fall, S. Kyle; Summer, Staff",
+AEM,2500,Environmental and Resource Economics,Fall,3,A. Ortiz-Bobea,
+AEM,2600,Managerial Economics,Fall,3,"T. Alexander, B. Leyden",
+AEM,2770,Excursions in Computational Sustainability,Spring,3,C. Gomes,"(crosslisted) CS 2770, INFO 2770"
+AEM,3020,Farm Business Management,Fall,4,W.A. Knoblauch,
+AEM,3385,Social Entrepreneurship Practicum: Anabel’s Grocery,"Fall, Spring",3,A. Wessels,
+AEM,4090,Environmental Finance and Markets,Spring,3,J. Tobin,
+AEM,4315,Economics of Developing Countries,Spring,4,B. Dillon,(crosslisted) ECON 3550 
+AEM,3270/5270,Supply Chain Strategy and Supermarket Simulation,Fall,3,D. Hooker,
+AEM,4500,Resource Economics,Spring,3,C.-Y.C. Lin Lawell,(crosslisted) ECON 3860
+AEM,4510/5510,Environmental Economics,Spring,3,I. Rudik,(crosslisted) ECON 3865
+AEM,2805,Strategic Responses to Poverty and Hunger in Developing Countries,"Fall, Spring",3,M. Constas,
+AEM,2555,Corporate Sustainability: The Business Challenge,Fall,3,J. Tobin,
+AEM,3260/5260,Cooperative Business Management,Spring,3,T.M. Schmit,
+AEM,4415/5415,Pre-Engagement with Social Enterprises in Emerging Markets,Fall,3,F. Mubichi-Kut.,
+AEM,4515/5515,Business and Economics of Energy,Fall,3,T. Gerarden,(crosslisted) ECON 3870 
+AEM,4580/6580,The Economics and Psychology of Sustainable Business,Fall,1.5,W. Schulze,
+AEM,3390/6390,Research Methods in International Development,Spring,3,A.K. Basu,
+AEM,3015,Developing Racial Equity in Organizations ,Fall,3,J. Majka,
+AIIS,1110,Indigenous Issues in Global Perspectives,Spring,3,T. Richardson,(crosslisted) AMST 1601
+AIIS,2100,Indigenous Ingenuities as Living Networks,Spring,3,Staff,"(crosslisted) AMST 2108, ARTH 2101"
+AIIS,2600,Introduction to Native American Literature,Fall,3,J. Hu Pegues,"(crosslisted) AMST 2600, ENGL 2600"
+AIIS,3560,Thinking from a Different Place: Indigenous Philosophies,Fall,3,E. Cheyfitz,"(crosslisted) AMST 3562, ENGL 3560"
+ALS,2000,Leadership for Sustainability,Spring,3,"K. Anderson, S. Brylinsky, K. Hilversum, M. Hoffman",
+AMST,1290,American Society through Film,Fall,3,D. Strang.,
+ANSC,1120,Sustainable Animal Husbandry ,Spring,3,M. Soberon,
+ANSC,2300,Introduction to Domestic Mammalian Behavior,Fall,2,L. Goodale,
+ANSC,3310,Applied Dairy Cattle Genetics,Spring,4,H. Huson,
+ANSC,3450/5450,Reproductive Physiology and Management of Dairy Cattle,Spring,3,J. Giordano,
+ANSC,3510/5510,Dairy Herd Management,Spring,4,J. Giordano,
+ANSC,4110/6110,Integrated Cattle Nutrition,Fall,4,M. Van Amburgh,
+ANSC,4120/6120,Whole-Farm Nutrient Management,Spring,4,"Q. Ketterings, M. Van Amburgh",
+ANSC,4140/5140,Ethics and Animal Science,Spring,2,D. Cherney,
+ANSC,4880/6880,"Global Food, Energy, and Water Nexus- Engage the US, China, and India for Sustainability ",Fall,"3, 4","X. Lei, T. Li, D. Miller, P. Pingali, R. Richardson, J. Tester, K.M. Zhang","(crosslisted) AEM 4880, CHEME 4880, FDSC 4880"
+ANSC,4560,Dairy Management Fellowship,Spring,2,M. Van Amburgh,
+ANSC,1200,Dairy Industry Topics and Issues ,Fall,1,"J. Giordano, B. Nguyen, T. Overton, M. Van Amburgh",
+ANSC,3540/5540,Dairy Cattle Herd Health ,Fall,3,B. Nguyen,
+ANSC,3850/5850,Dairy Sheep Management ,"Fall, Spring",3,"N. Kochendoerfer, J. Waltemyer",
+ANSC,4510/6510,Dairy Herd Business Management ,Fall,3,"J. Karszes, M. Van Amburgh",
+ANTHR,2400,Cultural Diversity and Contemporary Issues,Spring,3,N. Raheja,
+ANTHR,2468,"Medicine, Culture, and Society",Spring,4,A. Nading,"(crosslisted) BSOC 2468, FGSS 2468, STS 2468"
+ANTHR,2482,Anthropology of Climate Change,Spring,3,C. Ahmann,
+ANTHR,3390,Primate Behavior and Ecology with Emphasis on African Apes,Spring,4,A.C. Arcadi,
+ANTHR,2437,"Economy, Power, and Inequality ",Fall,3,M. Welker,(crosslisted) SHUM 2437 
+ANTRH,2440,The Social Life of Money,Spring,3,A. Bize,
+ARCH,2102,Design IV,Spring,6,Staff,
+ARCH,2614,Building Technology I: Materials and Methods,Fall,3,Staff,
+ARCH,2616,Environmental Systems II: Building Dynamics,Spring,3,Staff,
+ARCH,3301,"Architectural Analysis II: Architecture, the City, and Landscape",Fall,3,Staff,
+ARCH,4101,Design VII,"Fall, Spring",6,Staff,
+ARCH,4102,Design VIII,"Fall, Spring",6,Staff,
+ARCH,4698,Special Investigations in Environmental Systems and Conservation,"Fall, Spring","1,2,3",Staff,
+ARCH,1611/5611,Environmental Systems I: Introduction to Sustainable Design ,Fall,3,Staff,
+ASIAN,1100,FWS: Religion and Ecological Sustainability,Spring,3,J.M. Law,
+ASIAN,2262,Medicine and Healing in China,Fall,4,T. Hinrichs,"(crosslisted) ASRC 4682, BSOC 4682"
+ASIAN,2273,Religion and Ecological Sustainability,Fall,3,J. M. Law,(crosslisted) RELST 2273
+ASIAN,3316/6616,"Zen Buddhism: Ecology, Sustainability and Daily Life",Spring,4,J.M. Law,
+ASRC,1860,"FWS: A Dream, not a Nightmare: Martin Luther King, Jr. and the Quest for Justice",Spring,3,E. Aboi,
+ASTRO,2202,"A Spacecraft Tour of the Solar System: Science, Policy and Exploration",Fall,3,A. Hayes,
+ASTRO,1102,Our Solar System,Spring,3,"T. Herter, B. Schmidt",
+BEE,2000,Perspectives on the Climate Change Challenge,Spring,1,P. Hess,
+BEE,2010,Perspectives on the Climate Change Challenge Discussion,Spring,3,P. Hess,
+BEE,2510,Engineering Processes for Environmental Sustainablility,Fall,3,J. Goldfarb,(crosslisted) ENGRD 2510 
+BEE,3710,Physical Hydrology for Ecosystems,Spring,3,T. Walter,
+BEE,3800,Sustainability and Sustainable Energy Systems,Spring,1,N. Scott,
+BEE,3299/5299,Sustainable Development,Spring,3,B. Richards,
+BEE,3500/5500,Heat and Mass Transfer in Biological Engineering,Fall,4,A. Datta,
+BEE,4110/6110,Hydrologic Engineering in a Changing Climate,Fall,3,S. Steinschneider,
+BEE,4270/5270,Water Measurement and Analysis Methods,Fall,3,"B. Richards, T. Steenhuis",
+BEE,4730/5730,Watershed Engineering,Fall,4,T. Walter,
+BEE,4750/5750,Environmental Systems Analysis,Fall,3,V. Srikrishnan,
+BEE,4800/6800,Atmospheric Chemistry: From Air Pollution to Global Climate Change ,Fall,3,P. Hess,(crosslisted) EAS 4800
+BEE,4500,Bioinstrumentation,Spring,"3,4",M. Wu,
+BEE,4350/5350,Computer-Aided Engineering: Applications to Biological Processes,Spring,3,A. Datta,(crosslisted) MAE 4530
+BEE,3900/5900,Bio-Robotics,Fall,3,S. Jung,
+BEE,4710/6710,Introduction to Groundwater,Spring,3,"P. Fulton, T. Steenhuis",(crosslisted) EAS 4710
+BEE,4550/6550,Biologically Inspired Microsystems Engineering,Fall,"2,3",M. Wu,
+BEE,4880/6880,Applied Modeling and Simulation for Renewable Energy Systems,Spring,3,J. Mays,
+BIOEE,1180,Evolution,"Fall, Summer",3,Fall: staff ; Summer: G. Graffin,(crosslisted) STS 1180
+BIOEE,1540,Introductory Oceanography,Fall,3,B. Monger,(crosslisted) EAS 1540
+BIOEE,1560,Introductory Oceanography with Laboratory,Fall,4,B. Monger,(crosslisted) EAS 1560
+BIOEE,1610,Introductory Biology: Ecology and the Environment,"Fall, Spring, Summer","3,4","Fall, X. Xu; Spring, R. Howarth; Summer, J. St. Juliana",
+BIOEE,1780,An Introduction to Evolutionary Biology and Diversity,"Fall, Spring","4,5","Fall, M. Greischar; Spring, R. Reed",
+BIOEE,2642,Analysis and Interpretation of Bird Observations,"Fall, Spring",1,A. Dhondt,
+BIOEE,2740,"The Vertebrates: Comparative Anatomy, Function, Paleontology, and Evolution",Spring,4,W. Bemis,
+BIOEE,3610,Advanced Ecology,Fall,4,"S. Ellner, J. Sparks",
+BIOEE,3611,Field Ecology,Fall,3,A. Agrawal,
+BIOEE,4690,"Food, Agriculture, and Society",Spring,3,A. Power,"(crosslisted) BSOC 4691, STS 4691"
+BIOEE,3690,Chemical Ecology,Spring,3,"A. Kessler, R. Raguso, J. Thaler","(crosslisted) BIONB 3690, ENTOM 3690"
+BIOEE,3750,Biodiversity and Biology of the Marine Invertebrates,Fall,3,L. Babonis,
+BIOEE,2525/2526/2527,Ecology and Conservation of Wildlife in the Neotropics,"Fall, Spring",3,L. Campagna,
+BIOEE,2640/2641/2642,Tropical Field Ornithology,"Fall, Spring",3,A. Dhondt,
+BIOEE,4570/4571,Limnology: Ecology of Lakes (Lectures/Lab),Fall,"3,5",M. Holgerson,
+BIOEE,4780,Ecosystem Biology and Global Change,Spring,4,C. Goodale,
+BIOEE,1150,Techniches of Avian Speciment Preparation ,Fall,2,"M. Ferraro, V. Rohwer",
+BIOEE,1640,FWS: Topics in Ecology and Evolutionary Biology,"Fall, Spring",3,Staff,
+BIOMI,1400,Antibiotics: Probing the Biology of Life and Death,Spring,3,A. Hay,
+BIOMI,3500,Marine Microbes and Disease in a Changing Ocean,Spring,3,I. Hewson,(crosslisted) EAS 3555
+BIOSM,1500,Investigative Marine Biology Laboratory,Summer,3,"D. Fudge, D. Taylor",
+BIOSM,1610,Ecology and the Marine Environment,Summer,3,"J. Factor, J. Sparks",
+BIOSM,1780,Evolution and Marine Diversity,Summer,4,W. Allmon,
+BIOSM,2500,Coastal Habitat Field Research Methods,Summer,3,G. Moore,
+BIOSM,2800,Sustainable Fisheries,Summer,3,"O. Nichols, L. Williams",
+BIOSM,3210,Anatomy and Function of Marine Vertebrates,Summer,3,N. Gidmark,
+BIOSM,3290,Field Animal Behavior,Summer,3,"W. Kimler, H. Nance, H. Weeks",
+BIOSM,3330,Marine Parasitology and Disease,Summer,3,A. Blakeslee,
+BIOSM,3340,"Marine Invasive Species: Ecology, Evolution and Management",Summer,3,"A. Blakeslee, A. Fowler, C. Keogh",
+BIOSM,3450,Marine Mammal Biology,Summer,3,N. Lysiak,
+BIOSM,3500,Applied Science Communication,Summer,3,"M. Sarvary, K. Gifford",
+BIOSM,3650,Underwater Research,Summer,3,"J. Coyer, E. Siddon",
+BIOSM,3740,Field Ornithology,Summer,3,K. Covino,
+BIOSM,3750,Marine Ecosystem Research and Management,Summer,3,"J. Seavey, C. Siddon, E. Siddon, M. Sigler",
+BIOSM,4450,Field Wildlife Forensics,Summer,1.5,"W. Lord, I. Sidor",
+BIOSM,4640,Shark Biology and Conservation,Summer,3,H. Marshall,
+BIOSM,3500,Applied Science Communication,Summer,3,"M. Sarvary, K. Gifford",
+BSOC,2051,Ethical Issues in Health and Medicine,Fall,4,R. Prentice,(crosslisted) STS 2051
+BSOC,2061,Ethics and the Environment,Spring,4,Staff,"(crosslisted) PHIL 2960, STS 2061"
+BSOC,3011,Life Sciences and Society,Spring,4,J. Ratcliff,(crosslisted) STS 3011
+CAPS,4001,China in Transition,Fall,4,X. Xin,
+CEE,2550,AguaClara: Sustainable Water Supply Project,"Fall, Spring","1,2,3",R. Richardson,
+CEE,1130,"Sustainable Engineering of Energy, Water, Soil, and Air Resources",Spring,3,A. Giometto,(crosslisted) ENGRI 1130
+CEE,3040,Uncertainty Analysis in Engineering,Fall,4,R.A. Daziano,
+CEE,3510,Environmental Quality Engineering,Spring,3,R. Richardson,
+CEE,3610/5610,Introduction to Transportation Engineering,Spring,3,F. Vanek,
+CEE,4210/5210,Renewable Energy Systems,Fall,3,F. Vanek,
+CEE,4510/5510,Microbiology for Environmental Engineering,Fall,3,R. Richardson,
+CEE,4750/6750,Concrete Materials and Construction,Spring,3,K. Hover,
+CEE,4770/6770,"Natural Hazards, Reliability, and Insurance",Fall,3,M. Grigoriu,
+CEE,4565/6565,Waste Water Processes and Resources Recovery,Fall,3,A. Gu,
+CHEME,5610,Concepts of Chemical Engineering Product Design and Lean Manufacturing,Fall,3,A. Woltornist,
+CHEME,4620,Chemical Engineering Design,Spring,5,"A. Woltornist, Staff",
+CLASS,2000,Environmental and Sustainability Colloquium,Fall,1,"J. Lehmann, V. Platt",
+CLASS,3750/6755,Introduction to Dendrochronology,Fall,4,S. Manning,"(crosslisted) ARKEO 3090, ARTH 3250, MEDVL 3750"
+CLASS,2729/7727,"Climate, Archaeology and History",Spring,3,S. Manning,"(crosslisted) ANTHR 2729, ARKEO 2729"
+COML,3336/6336,Border Environments,Spring,4,"A. Banerjee, D. Castillo","(crosslisted) LATA 3336, LSP 3336, SPAN 3335"
+COML,1138,FWS: Colonial Afterlives,Fall,3,Staff,
+COMM,2850,"Communication, Environment, Science, and Health",Spring,3,J. Schuldt,(crosslisted) STS 2851
+COMM,3080,Capstone Course in Environmental and Sustainability Communication: From the Lab to the World,"Fall, Spring",2,L. Chambliss,
+COMM,3081,Environmental & Sustainability Communication Part II,"Fall, Spring",3,L. Chambliss,
+COMM,3210,Communication and the Environment,"Fall, Spring",3,Staff,
+CRP,1100,The American City,Fall,3,Staff,
+CRP,1101,The Global City,Spring,3,V. Beard,
+CRP,2000,The Promise and Pitfalls of Contemporary Planning,Fall,3,J. Minner,
+CRP,2010,"People, Planning, and Politics in the City",Spring,3,J. Forester,
+CRP,3210,Introduction to Quantitative Methods for the Analysis of Public Policy,Fall,3,N. Klein,
+CRP,4080,Introduction to Geographic Information Systems (GIS),"Fall, Spring",4,Staff,
+CRP,3072/5072,"Land Use, Environmental Planning, and Urban Design Workshop","Fall, Spring",4,Staff,
+CRP,3270/6270,Regional Economic Impact Analysis,Fall,3,J. Carruthers,
+CRP,3555/5555,Environmental Impact Review,Fall,3,G. Frantz,
+CRP,3840/5840,Green Cities,Fall,3,S. Schmidt,
+CRP,3900/7850,"City and Regional Futures: Planning Practice, Policy and Design","Fall, Spring",1,Staff,
+CRP,4770/6770,Seminar on Issues in African Development,"Fall, Spring",2,N. Assie-Lumumba,(crosslisted) GDEV 4770
+CRP,3860/6860,Planning for Sustainable Transportation,"Fall, Spring",3,N. Klein,
+DEA,1110,Making a Difference by Design,"Fall, Summer",3,H. Kao,
+DEA,1500,Introduction to Environmental Psychology,"Fall, Summer","3, 4",G. Evans,"(crosslisted) COGST 1500, PSYCH 1500"
+DEA,2020,Introduction to Sustainable Design,Spring,3,L. Beaman,
+DEA,2200,"Art and Science: Sustainability, Multiculturalism and Transdisciplinarity",Spring,3,H. Kao,
+DEA,2201,Magnifying Small Spaces Studio,Fall,4,L. Beaman,
+DEA,2510,History of Design Futures,Fall,3,R. Militello,
+DEA,2700,"Healthy Places: Design, Planning, and Public Health",Fall,3,Staff,
+DEA,3030,Materials for Design & Sustainability,Fall,3,R. Gilmore,
+DEA,4040,Professional Practices and Ethics,Spring,2,N. Ahmadi,
+DEA,4401,Adaptive Reuse Studio: Recycling the Built Environment,Fall,4,R. Gilmore,
+DEA,4500,Policy Meets Design: High-Impact Facilities of the 21st Century,Fall,3,R.S. Zadeh,
+DEA,3500/6520,The Ambient Environment,Fall,3,S. Kalantari,
+DEA,3590/6500,Problem-Seeking through Programming,Fall,3,N. Ahmadi,
+DEA,4220,Ecological Literacy and Design,Spring,3,J. Elliott,(crosslisted) ARCH 4601 
+EAS,1101,Climate and Energy: a 21st Century Earth Science Perspective,Fall,3,"T. Ault, M. Pritchard",
+EAS,1108,Earth in the News,Summer,3,R. Ross,
+EAS,1160,The Ice Age: The Consequences of Glaciation and Deglaciation on Climate Change,Summer,3,C. Griggs,
+EAS,1220,Earthquake!,Fall,3,L. Brown,(crosslisted) ENGRI 1220
+EAS,1310,Basic Principles of Meteorology,Fall,3,M. Wysocki,
+EAS,1340,Introductory Weather Analysis and Forecasting,Spring,1,"M. Wysocki, Staff",
+EAS,1600,Environmental Physics,"Fall, Spring",3,Fall: S. Riha; Spring: A. Degaetano,
+EAS,1700,Evolution of the Earth and Life,Spring,3,R. Ross,
+EAS,2250,The Earth System,"Fall, Spring",4,Fall: R. Lohman; Spring: L. Brown,(crosslisted) ENGRD 2250
+EAS,2680,Climate and Global Warming,Spring,3,F. Lehner,
+EAS,3030,Introduction to Biogeochemistry,Fall,4,"L. Derry, J. Yavitt",(crosslisted) NTRES 3030
+EAS,3390,Younger Dryas Tree-Ring Field Research at Bell Creek in Upstate New York,Summer,3,C. Griggs,
+EAS,3410,Atmospheric Thermodynamics and Hydrostatics,Fall,3,A. Degaetano,
+EAS,2550/5550,Observing the Earth: Remote Sensing and GIS,Spring,3,R. Lohman,
+EAS,3010/5011,Evolution of the Earth System,Fall,4,"W. Allmon, T. Jordan",
+EAS,4050,Active Tectonics,Spring,3,R. Lohman,
+EAS,3450/5450,Environmental Geophysics,Fall,4,K. Keranen,
+EAS,4550/6550,Geochemistry,Spring,4,M. Holycross,
+EAS,4860/6860,Tropical Meteorology and Climate,Spring,4,T. Ault,
+EAS,4370,Field Geophysics,Spring,4,K. Keranen,
+EAS,4010/5010,Fundamentals of Energy and Mineral Resources,Spring,3,K. Olson Hoal,
+EAS,4441,Controversies in Global Climate Change Science and Policy ,Fall,1.5,"A. Chatrchyan, N. Mahowald",
+EAS,4443,Global Climate and Policy ,Fall,4,"A. Chatrchyan, N. Mahowald","(crosslisted) CRP 4443, GDEV 4443"
+ECE,4510/5510,Electric Power Systems I,Fall,4,H.D. Chiang,
+ECE,4520/5550,Power Systems and Market Operations,Spring,3,L. Tong,
+ECE,4840/5840,Introduction to Controlled Fusion: Principles and Technology,Spring,3,D. Hammer,"(crosslisted) AEP 4840, MAE 4590"
+ECON,3850,Economics and Environmental Policy,Fall,3,N. Sanders,(crosslisted) PAM 3670; Co-meets with PAM 5970
+ECON,3875/6300,"Policy Analysis: Welfare Theory, Agriculture, and Trade",Spring,4,H. de Gorter,
+ENCOM,3150,Spider Biology,Fall,3,L.S. Rayor,
+ENGL,1130,FWS: Writing the Environment,"Fall, Spring",3,Staff,
+ENGL,3795,Communicating Climate Change,"Fall, Spring",4,C. Levine,
+ENGL,1160,"FWS: Intersections: Race, Writing, and Power","Fall, Spring",3,Staff,
+ENGL,1120,FWS: Writing and Community Engagement,"Fall, Spring",3,Staff,
+ENGRD,2210,Thermodynamics,"Fall, Summer",3,Fall: E. Fisher; Summer: Staff,(crosslisted) MAE 2210
+ENGRG,3030,Green Business Lab,Spring,1,"E. Dawson, A. Kohut, A. Socci",
+ENGRI,1140,Materials: The Future of Energy,Fall,3,R.B. van Dover,(crosslisted) MSE 1140
+ENTOM,3070,"Pesticides, the Environment, and Human Health",Fall,2,J.G. Scott,(crosslisted) TOX 3070
+ENTOM,4440/5440,Integrated Pest Management,Spring,4,"A. DiTommaso, J.E. Losey",(crosslisted) PLSCS 4440
+ENTOM,3350,Naturalist Outreach Practicum,Fall,4,L. S. Rayor,
+ENTOM,3360,Naturalist Outreach Continued,Fall,"1,2",L. S. Rayor,
+ENTOM,2120,Insect Biology,Fall,4,J. Sanderson,
+ENTOM,4550,Insect Ecology,Fall,4,J.S. Thaler,(crosslisted) BIOEE 4550
+ENTOM,2150,Spider Biology: Life on a Silken Thread,Fall,2,L.S. Rayor,
+ENTOM,4900,Toxicology of Insecticides ,Spring,3,J.G. Scott,(crosslisted) TOX 4900
+ENVS,4444,Climate Smart Communities: State and Local Climate Change Science and Policy,Spring,3,A.M. Chatrchyan,(crosslisted) EAS 4444 
+FDSC,1500,Food Choices and Issues,Spring,2,"J. Brady, R. H. Liu",
+FDSC,4020,Agriculture in Developing Nations I/II,"Fall, Spring",1,"K.V. Raman, T. Tucker",(crosslisted) IARD 4030
+FDSC,4010/5010,Concepts of Food Product Development,Fall,2,O. Padilla-Zakour,
+FDSC,3800,Introduction to Functional Foods,Spring,2,R.H. Liu,
+FDSC,4250/6250,Food Processing B: Dairy Processing and Emerging Technologies,Spring,"2,3","J. Dumpler, C.I. Moraru",
+FSAD,4440,Global Fashion Management,Spring,3,T. Lewis,
+FSAD,4921,Textile and Apparel Production in India,Fall,2,D. Green,
+FSAD,3200,Global Textile & Apparel Sustainability,Fall,3,"M. Frey, F. Kozen",
+FSAD,3250,Color and Surface Design of Textiles,Fall,4,M. Conroy,
+GDEV,3400/5400,"Agriculture, Food, Sustainability, and Social Justice",Fall,3,R. Bezner Kerr,
+GDEV,1102,Introduction to Global Development,Fall,3,"P. Eloundou-Enyegue, S. Giroux",
+GDEV,3060,Farmworkers: Contemporary Issues and Their Implications,Fall,1,M. J. Dudley,
+GDEV,3150,Climate Change and Global Development: Living in the Anthropocene,Fall,3,J. Goldstein,
+GDEV,3240,Environmental Sociology,Spring,3,J. Zinda,"(crosslisted) SOC 3240, STS 3241"
+GDEV,1200,FWS: Topics in Global Development,"Fall, Spring",3,Staff,
+GDEV,2010,Population Dynamics,Spring,3,T. Hirschl,(crosslisted) SOC 2202 
+GOVT,1313,Introduction to Comparative Government and Politics,"Spring, Summer",4,N. van de Walle.,
+GOVT,3947,Race and World Politics,Fall,4,O. Ba,(crosslisted) ASRC 3947
+GOVT,3613/3614/3623,Politics of Sustainable Development in Latin America 1,Fall,3,K. Roberts,
+GOVT,1101,FWS: Power and Politics,"Fall, Spring",3,Staff,
+HADM,4320,Contemporary Healthy Foods,Spring,3,M. Kingra,
+HADM,3550,Hospitality Facilities Management,"Fall, Spring",3,J. Varney,
+HADM,4200,Principles of Real Estate,"Fall, Spring",3,"Fall, C. Liu; Spring, D. Cvijanovic",
+HADM,4315,Nonprofit Social Enterprise and Food Justice,Fall,3,H. Kolakowski,
+HADM,3299/5299,Sustainable Development,Spring,4,B. Richards,
+HADM,4015/6015,Operations Analysis and New Business Models,Spring,3,E. Belavina,
+HE,4080,Practicing Medicine,Summer,3,S. Beck,
+HE,,Practicing Health Equity: Theory and Fieldwork in Brooklyn,Summer,2,S. Beck,
+HE,1151,FWS: Matters in Health and the Environment,Fall,3,M. Kowalski,
+HIST,2581,Environmental History,Spring,4,A. Sachs,"(crosslisted) AMST 2581, BSOC 2581"
+HIST,1800,Immigration in U.S. History ,Fall,4,M.C. Garcia,"(crosslisted) AMST 1800, LSP 1800"
+ILRHR,4615/6615,Socially Responsible Business,Spring,2,Staff,
+ILRIC,2350,"Work, Labor, and Capital in the Global Economy ","Fall, Spring",3,"V. Doellgast, E. Friedman, J. Judd, S. Kuruvilla, T. Nagaraja",
+ILRIC,3375/5375,Labor Practices in Global Supply Chains: Multi-Stakeholder Perspectives,Fall,4,S. Kuruvilla,
+ILRLE,3450,Race and American Labor Market,Spring,4,S. Sanders,"(crosslisted) ECON 3480, HIST 3480"
+ILRLR,3885,"Race and War in History: Workers, Soldiers, Prisoners, Activists",Fall,4,T. Nagaraja,"(crosslisted) AAS 3885, AMST 3885, HIST 3884"
+ILRLR,3057/6057,Environmental Mediation and Negotiation,Fall,2,J. Bickerman,
+INFO,4240/5240,Designing Technology for Social Impact ,Fall,3,C. Csikszentmihalyi,(crosslisted) STS 4240 
+LA,1410,Grounding in Landscape Architecture I,Fall,4,Staff,
+LA,1420,Grounding in Landscape Architecture II,Spring,4,Staff,
+LA,4910/5910,"Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment",Fall,4,J. Vanucchi,
+LA,4920/5920,"Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment",Fall,4,J. Vanucchi,
+LA,2010,Medium of the Landscape I,Fall,5,Staff,
+LA,2020,Medium of the Landscape II,Spring,5,Staff,
+LA,3010,Integrating Theory and Practice I,Fall,5,Staff,
+LA,3020,Integrating Theory and Practice II,Spring,5,Staff,
+LA,3150,Site Assembly,Spring,5,Z. Hong,
+LA,4020,Capstone Community Design Studio,Spring,5,Staff,
+LA,4010,Urban Design Studio,Fall,5,Staff,
+LA,3160/6160,Site Engineering,Fall,5,V. Aymer,
+LA,4070/6070,Emerging Dimensions in Urban Ecology and Sustainable Practices,Spring,3,J. Cerra,
+MAE,4021,Wind Power,Fall,4,R. Barthelmie,
+MAE,3240,Heat Transfer,"Spring, Summer",3,Staff,
+MAE,4020/5020,Wind Power,Fall,3,R. Barthelmie,
+MSE,1140,Materials: The Future of Energy,Fall,3,R.B. van Dover,
+NES,1923,FWS: Trees in Ancient Religion and Contemporary Thought,Fall,3,M. Westermayer,Not offered: 2022-2023. Next offered: 2023-2024
+NS,1150,"Nutrition, Health, and Society","Fall, Summer",3,"R. Figueroa, C. Noel, Staff",
+NS,2060,Preparation for Engaged Learning in Global and Public Health Sciences,Fall,2,G. Wable,
+NS,2061,Site-Specific Preparation for Engaged Learning in Global and Public Health Sciences,"Fall, Spring","1,2",Staff,
+NS,2600,Introduction to Global Health,Spring,3,J. Moseley,
+NS,4450/6455,Toward a Sustainable Global Food System: Food Policy for Developing Countries,Fall,3,P. Pingali,(crosslisted) AEM 4450
+NS,4480/6480,Economics of Food and Malnutrition,Fall,3,J. Hoddinott,(crosslisted) AEM 4485
+NS,4500,Public Health Nutrition,Spring,3,L. Bellows,
+NS,,"Global Health, Development and Policy Issues in Tanzania",Summer,4,"J. Moseley, Staff",
+NS,4570,"Health, Poverty, and Inequality: A Global Perspective",Fall,3,D. Sahn,(crosslisted) ECON 3910
+NS,4410,Nutrition and Disease,"Fall, Summer",4,L. Barre,
+NTRES,1101,Understanding Environment and Sustainability,Fall,3,C. Kraft,(crosslisted) ENVS 1101 
+NTRES,1200,FWS: Special Topics in Natural Resources,Fall,3,Staff,
+NTRES,1201,Global Water Sustainability,Spring,3,"P. McIntyre, X. Shinbrot",(crosslisted) ENVS 1201
+NTRES,2000,Environmental Justice,Summer,3,J. N. Matias,
+NTRES,2010,Environmental Conservation,Spring,3,J. Yavitt,
+NTRES,2201,Society and Natural Resources,Spring,3,R. Stedman,"(crosslisted) GDEV 2201, BSOC 2201"
+NTRES,2320,Nature and Culture,Spring,3,J. Tantillo,
+NTRES,2470,Green Cities: Creating the Living City,Summer,3,A. Kudryavtsev,
+NTRES,2830,"DNA, Genes and Genetic Diversity",Spring,4,M. Hare,
+NTRES,3100,Applied Population Ecology,Fall,3,E. G. Cooch,
+NTRES,3111,Fish Ecology Laboratory ,Spring,1,L. Rudstam,
+NTRES,3220,Global Biodiversity,Fall,3,J.B. Yavitt,
+NTRES,3320,Introduction to Ethics and Environment,Spring,4,J. Tantillo,
+NTRES,3330,Ways of Knowing: Indigenous and Place-Based Ecological Knowledge,Fall,3,K-A.S. Kassam,"(crosslisted) AIIS 3330, AMST 3330"
+NTRES,4100,Advanced Conservation Biology: Concepts and Techniques,Fall,4,"E.G. Cooch, M.P. Hare",
+NTRES,4120,Wildlife Population Analysis: Techniques and Models,Spring,4,E. Cooch,
+NTRES,4150,Conservation with Communities for One Health,Spring,2,"D. Bowman, J. Felippe, T. Fishel, L. Harrington, K. McGowan, R. Radcliffe, A. Rodewald",
+NTRES,4160,Conversations in Conservation for One Health,Fall,1,R. Radcliffe,
+NTRES,4280,Principles and Practices of Applied Wildlife Science,Fall,"1,2,3,4",P. Curtis.,
+NTRES,4320,Human Dimensions of Coupled Social - Ecological Systems,Spring,3,Staff,
+NTRES,4330,Applied Environmental Philosophy,Spring,3,J. Tantillo,
+NTRES,3240/6240,"Sustainable, Ecologically Based Management of Water Resources",Spring,3,R. Schneider,
+NTRES,3250/6250,Forest Management and Maple Syrup Production,Spring,3,P. Smallidge,
+NTRES,3260/6260,Applied Conservation Ecology,Spring,3,"S. Morreale, K. Sullivan.",(crosslisted) ENVS 3260
+NTRES,3311/6310,Environmental Governance,Fall,3,S. Wolf,"(crosslisted) BSOC 3311, GDEV 3311, STS 3311"
+NTRES,3400/5400,"Molecular Tools for Ecology, Conservation, and Natural Resource Management",Fall,3,N. O. Therkildsen,
+NTRES,4300/4301/4302,Environmental Policy Processes I/ II/III,"Fall, Spring",3,"C. E. Kraft, T. B. Lauber",
+NTRES,4600/6600,Planning for Environmental Conservation and Sustainability,Fall,3,"T.B. Lauber, E. Cooch",(crosslisted) ENVS 4600
+NTRES,4601/6601,Decision Making in Environmental Conservation and Sustainability,Fall,3,"T.B. Lauber, E. Cooch",(crosslisted) ENVS 4601
+NTRES,4750/5750,Environmental Justice and Policy,Spring,3,"S. Allred, R. Brenner",(crosslisted) GDEV 4750 
+NTRES,4961/6960,Perspectives in Global Development,"Fall, Spring",1,"L. Buck, E. Mabaya, T. Tucker","(crosslisted) AEM 4961, GDEV 4961"
+NTRES,4520,Land Use and Sustainable Livelihoods in the Nilgris,Spring,3,S. Wolf,
+NTRES,1200,FWS: Special Topics in Natural Resources,Fall,3,Staff,
+NTRES,2100,Introductory Field Biology,Fall,4,M. Goebel,
+NTRES,2600,Field Research in the Ecological Arts,Spring,3,A. Davidson,
+NTRES,4201,Forest Ecology Lab,Fall,1,T. Fahey,
+NTRES,3150/6150,Introduction to Conservation Bioacoustics,Fall,"3,4","H. Klinck, A. Rice, L. Symes",
+NTRES,4200/6200,Forest Ecology ,Fall,3,T. Fahey,
+NTRES,2400,Field Methods in Avian Ecology,Fall,3,"D. Bonter, S. Kaiser",(crosslisted) ENVS 2400 
+NTRES,3020,Earth Projects ,Fall,3,A. Davidson,(crosslisted) ENVS 3020 
+PADM,1734,Disasters,Summer,3,R. Brenner,
+PAM,2030,Population and Public Policy,"Spring, Summer","4,5",S. Sassler,
+PAM,4110,"Pollution, Climate Change, and Health",Spring,3,N. Sanders,
+PAM,3410,Economics of Consumer Protection and the Law,Fall,3,A. Mathios,
+PAM,3400/5400,The Economics of Consumer Policy,Fall,4,S. Tennyson,(crosslisted) ECON 3610
+PAM,3280,Fundamentals of Population Health ,Fall,3,J. Carmalt,(crosslisted) GDEV 3280 
+PHIL,1440,Ethics of Eating,Fall,4,W. Starr,
+PHIL,1950,Controversies About Inequality,Fall,4,J. Sullivan,"(crosslisted) AMST 2225, GDEV 2220, GOVT 2225, ILROB 2220, PAM 2220, SOC 2220"
+PLBIO,2400,"Green World, Blue Planet","Fall, Summer",3,T. Silva,
+PLBIO,2480,Vascular Plant Systematics,Fall,4,S. Onyenedum,
+PLBRG,2010,"Plants, Genes, and Global Food Production",Spring,3,V. Moore,
+PLBRG,2250,Plant Genetics,Spring,4,M. Mazourek,
+PLBRG,2253,Lectures in Plant Genetics,Spring,3,M. Mazourek,
+PLBRG,4030/6030,Genetic Improvement of Crop Plants ,Fall,3,V. Moore,
+PLHRT,1102,Hands-On Horticulture for Gardeners,Spring,2,M. Pritts,
+PLHRT,1250,Organic Vegetable Gardening,Spring,1,S. Reiners,
+PLHRT,2020,Foods of the Future,Spring,3,P. Griffiths,
+PLHRT,2350,"Food, Fiber, and Fulfillment: Plants and Human Well-Being",Spring,2,S. Skelly,
+PLHRT,3050,Arboriculture: Applied Tree Care,Fall,3,T. Bauerle,
+PLHRT,4175,Production and Marketing of Greenhouse Crops,Spring,4,W. Miller,
+PLHRT,4450,Ecological Orchard Management,Spring,3,G. Peck,
+PLHRT,3000/5000,Annual and Perennial Plants in the Landscape,Fall,2,D. Rakow,
+PLHRT,4250/6250,Postharvest Biology of Horticultural Crops,Spring,3,S. Gan,
+PLHRT,4920/5920,"Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment",Spring,2,J. Vanucchi,
+PLSCI,1101,Plant Science and Systems,Fall,4,W. Miller,
+PLSCI,1115,The Nature of Plants,Spring,3,T. Bauerle,
+PLSCI,1125,Nature Rx,Fall,2,D. Rakow,(crosslisted) UNILWYL 1150
+PLSCI,1150,CSI: Forensic Botany,Spring,3,W. Crepet,
+PLSCI,1300,Just Food: Exploring the Modern Food System,Fall,4,"R. Bezner Kerr, F. Rossi",(crosslisted) GDEV 1300
+PLSCI,1420,Functional Plant Biology,Spring,3,T. Silva,
+PLSCI,2225,Introductory Plant Pathology,Spring,3,W. Fry,
+PLSCI,2260,Practicum in Forest Farming as an Agroforestry System,Fall,1,K. Mudge,
+PLSCI,3210/5210,Soil and Crop Management for Sustainability,Spring,3,H. Van Es,
+PLSCS,1120,"Microbes, the Earth, and Everything",Fall,3,"D. Buckley, K. Hefferon",(crosslisted) BIOMI 1120
+PLSCS,1900,"Sustainable Agriculture: Food, Farming, and the Future",Fall,3,M. Ryan,
+PLSCS,2600,Soil Science,Fall,4,J. Russell-Anelli,
+PLSCS,3650,"Environmental Chemistry: Soil, Air, and Water",Spring,3,C. Martinez,
+PLSCS,2110/5110,Field Crop Systems,Fall,4,Staff,
+PLSCS,1900,"Sustainable Agriculture: Food, Farming, and the Future",Fall,3,M. Ryan,
+ROMS,1120,FWS: Animals in Global Cinema: Human and Nonhuman,Fall,3,E. Bachminska,
+SOC,2208,Social Inequality,"Spring, Summer",4,"Spring, K. Weeden; Summer, Staff.","(crosslisted) GDEV 2090, PAM 2208"
+SOC,3750,Classical Sociological Theory,Fall,4,M. Berezin,
+SOC,1290,,,3,D. Strang,(crosslisted) AMST 1290
+SOC,1104,"Race and Ethnicity in the United States: Social Constructs, Real World Consequences","Fall, Summer",3,S. Alvarado,"Not offered: 2022-2023. Next offered: 2023-2024; (crosslisted) AMST 1104, LSP 1105"
+SOC,1101,Introduction to Sociology,"Fall, Spring, Summer",3,"Fall, K. Bischoff; Spring, L. Schnabel; Summer, Staff.",
+SOC,3750,Classical Sociological Theory,Fall,4,M. Berezin,
+SOC,3380,Urban Inequality ,Fall,3,K. Bischoff,Not offered: 2022-2023. Next offered: 2023-2024;(crosslisted) AMST 3380
+STS,1101,"Science, Technology, and Politics",Summer,3,E. Abrams,
+STS,4101,The Entangled Lives of Humans and Animals,Fall,4,R. Prentice,"(crosslisted) ANTHR 4101, BSOC 4101"
+STS,2011,What Is Science? An Introduction to the Social Studies of Science and Technology,"Spring, Summer",3,S. Hilgartner,(crosslisted) SOC 2100 
+STS,4451,Making Science Policy: The Real World,Spring,4,C. Leuenberger,(crosslisted) GOVT 4451 
+UNILWYL,1152,How Cornell is Changing the World Through Climate Leadership,Fall,1,"S. Brylinsky, D. Eiseman",
+VETCS,1200,Conservation Medicine: A Veterinary Perspective,Summer,3,R. Radcliffe,

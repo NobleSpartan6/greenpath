@@ -1,0 +1,75 @@
+Dept,Course #,Title,Semester,Credit,Faculty,Crosslists
+AEM,1500,An Introduction to the Economics of Environmental and Natural Resources,Spring,3,C. Kling,
+AEM,2050,Introduction to Agricultural Finance,Spring,3,C. Wolf,
+AEM,2350,Introduction To The Economics Of Development,"Fall, Summer",3,"Fall, S. Kyle; Summer, Staff",
+AEM,2500,Environmental and Resource Economics,Fall,3,A. Ortiz-Bobea,
+AEM,2770,Excursions in Computational Sustainability,Spring,3,C. Gomes,"(crosslisted) CS 2770, INFO 2770"
+AEM,4500,Resource Economics,Spring,3,C.-Y.C. Lin Lawell,(crosslisted) ECON 3860
+AEM,4510/5510,Environmental Economics,Spring,3,I. Rudik,(crosslisted) ECON 3865
+AIIS,1110,Indigenous Issues in Global Perspectives,Spring,3,T. Richardson,(crosslisted) AMST 1601
+AIIS,2600,Introduction to Native American Literature,Fall,3,J. Hu Pegues,"(crosslisted) AMST 2600, ENGL 2600"
+AIIS,3560,Thinking from a Different Place: Indigenous Philosophies,Fall,3,E. Cheyfitz,"(crosslisted) AMST 3562, ENGL 3560"
+AMST,1290,American Society through Film,Fall,3,D. Strang.,
+ANTHR,2482,Anthropology of Climate Change,Spring,3,C. Ahmann,
+ASIAN,2262,Medicine and Healing in China,Fall,4,T. Hinrichs,"(crosslisted) ASRC 4682, BSOC 4682"
+ASIAN,2273,Religion and Ecological Sustainability,Fall,3,J. M. Law,(crosslisted) RELST 2273
+ASIAN,3316/6616,"Zen Buddhism: Ecology, Sustainability and Daily Life",Spring,4,J.M. Law,
+BIOEE,4690,"Food, Agriculture, and Society",Spring,3,A. Power,"(crosslisted) BSOC 4691, STS 4691"
+BSOC,2051,Ethical Issues in Health and Medicine,Fall,4,R. Prentice,(crosslisted) STS 2051
+BSOC,2061,Ethics and the Environment,Spring,4,Staff,"(crosslisted) PHIL 2960, STS 2061"
+BSOC,3011,Life Sciences and Society,Spring,4,J. Ratcliff,(crosslisted) STS 3011
+CAPS,4001,China in Transition,Fall,4,X. Xin,
+CLASS,3750/6755,Introduction to Dendrochronology,Fall,4,S. Manning,"(crosslisted) ARKEO 3090, ARTH 3250, MEDVL 3750"
+CLASS,2729/7727,"Climate, Archaeology and History",Spring,3,S. Manning,"(crosslisted) ANTHR 2729, ARKEO 2729"
+COML,3336/6336,Border Environments,Spring,4,"A. Banerjee, D. Castillo","(crosslisted) LATA 3336, LSP 3336, SPAN 3335"
+COMM,2850,"Communication, Environment, Science, and Health",Spring,3,J. Schuldt,(crosslisted) STS 2851
+COMM,3210,Communication and the Environment,"Fall, Spring",3,Staff,
+DEA,1500,Introduction to Environmental Psychology,"Fall, Summer","3, 4",G. Evans,"(crosslisted) COGST 1500, PSYCH 1500"
+DEA,2020,Introduction to Sustainable Design,Spring,3,L. Beaman,
+DEA,2200,"Art and Science: Sustainability, Multiculturalism and Transdisciplinarity",Spring,3,H. Kao,
+DEA,2201,Magnifying Small Spaces Studio,Fall,4,L. Beaman,
+DEA,2510,History of Design Futures,Fall,3,R. Militello,
+DEA,2700,"Healthy Places: Design, Planning, and Public Health",Fall,3,Staff,
+DEA,3030,Materials for Design & Sustainability,Fall,3,R. Gilmore,
+DEA,4401,Adaptive Reuse Studio: Recycling the Built Environment,Fall,4,R. Gilmore,
+EAS,1101,Climate and Energy: a 21st Century Earth Science Perspective,Fall,3,"T. Ault, M. Pritchard",
+ECON,3850,Economics and Environmental Policy,Fall,3,N. Sanders,(crosslisted) PAM 3670; Co-meets with PAM 5970
+ENGL,3795,Communicating Climate Change,"Fall, Spring",4,C. Levine,
+FSAD,3200,Global Textile & Apparel Sustainability,Fall,3,"M. Frey, F. Kozen",
+FSAD,4440,Global Fashion Management,Spring,3,T. Lewis,
+GDEV,1102,Introduction to Global Development,Fall,3,"P. Eloundou-Enyegue, S. Giroux",
+GDEV,2010,Population Dynamics,Spring,3,T. Hirschl,(crosslisted) SOC 2202 
+GDEV,3400/5400,"Agriculture, Food, Sustainability, and Social Justice",Fall,3,R. Bezner Kerr,
+GDEV,3150,Climate Change and Global Development: Living in the Anthropocene,Fall,3,J. Goldstein,
+GDEV,3240,Environmental Sociology,Spring,3,J. Zinda,"(crosslisted) SOC 3240, STS 3241"
+GOVT,1313,Introduction to Comparative Government and Politics,"Spring, Summer",4,N. van de Walle.,
+GOVT,3947,Race and World Politics,Fall,4,O. Ba,(crosslisted) ASRC 3947
+HADM,4320,Contemporary Healthy Foods,Spring,3,M. Kingra,
+HADM,4315,Nonprofit Social Enterprise and Food Justice,Fall,3,H. Kolakowski,
+HIST,1800,Immigration in U.S. History ,Fall,4,M.C. Garcia,"(crosslisted) AMST 1800, LSP 1800"
+HIST,2581,Environmental History,Spring,4,A. Sachs,"(crosslisted) AMST 2581, BSOC 2581"
+INFO,4240/5240,Designing Technology for Social Impact ,Fall,3,C. Csikszentmihalyi,(crosslisted) STS 4240 
+NS,2600,Introduction to Global Health,Spring,3,J. Moseley,
+NS,4450/6455,Toward a Sustainable Global Food System: Food Policy for Developing Countries,Fall,3,P. Pingali,(crosslisted) AEM 4450
+NS,4480/6480,Economics of Food and Malnutrition,Fall,3,J. Hoddinott,(crosslisted) AEM 4485
+NS,4570,"Health, Poverty, and Inequality: A Global Perspective",Fall,3,D. Sahn,(crosslisted) ECON 3910
+NTRES,2000,Environmental Justice,Summer,3,J. N. Matias,
+NTRES,2010,Environmental Conservation,Spring,3,J. Yavitt,
+NTRES,2201,Society and Natural Resources,Spring,3,R. Stedman,"(crosslisted) GDEV 2201, BSOC 2201"
+NTRES,2320,Nature and Culture,Spring,3,J. Tantillo,
+NTRES,3111,Fish Ecology Laboratory ,Spring,1,L. Rudstam,
+NTRES,3311/6310,Environmental Governance,Fall,3,S. Wolf,"(crosslisted) BSOC 3311, GDEV 3311, STS 3311"
+NTRES,3330,Ways of Knowing: Indigenous and Place-Based Ecological Knowledge,Fall,3,K-A.S. Kassam,"(crosslisted) AIIS 3330, AMST 3330"
+NTRES,4320,Human Dimensions of Coupled Social - Ecological Systems,Spring,3,Staff,
+NTRES,4600/6600,Planning for Environmental Conservation and Sustainability,Fall,3,"T.B. Lauber, E. Cooch",(crosslisted) ENVS 4600
+NTRES,4750/5750,Environmental Justice and Policy,Spring,3,"S. Allred, R. Brenner",(crosslisted) GDEV 4750 
+PADM,1734,Disasters,Summer,3,R. Brenner,
+SOC,1101,Introduction to Sociology,"Fall, Spring, Summer",3,"Fall, K. Bischoff; Spring, L. Schnabel; Summer, Staff.",
+SOC,1104,"Race and Ethnicity in the United States: Social Constructs, Real World Consequences","Fall, Summer",3,S. Alvarado,"Not offered: 2022-2023. Next offered: 2023-2024; (crosslisted) AMST 1104, LSP 1105"
+SOC,2208,Social Inequality,"Spring, Summer",4,"Spring, K. Weeden; Summer, Staff.","(crosslisted) GDEV 2090, PAM 2208"
+SOC,3750,Classical Sociological Theory,Fall,4,M. Berezin,
+SOC,3750,Classical Sociological Theory,Fall,4,M. Berezin,
+STS,1101,"Science, Technology, and Politics",Summer,3,E. Abrams,
+STS,2011,What Is Science? An Introduction to the Social Studies of Science and Technology,"Spring, Summer",3,S. Hilgartner,(crosslisted) SOC 2100 
+STS,4101,The Entangled Lives of Humans and Animals,Fall,4,R. Prentice,"(crosslisted) ANTHR 4101, BSOC 4101"
+STS,4451,Making Science Policy: The Real World,Spring,4,C. Leuenberger,(crosslisted) GOVT 4451 

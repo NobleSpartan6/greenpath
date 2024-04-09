@@ -1,0 +1,6 @@
+Category,Sub-Category,Dept,Course #,Title,Semester,Credit,Faculty,Crosslists
+Common Curriculum,ENGRI,ENGRI,1140,Materials: The Future of Energy,Fall,3,R.B. van Dover,(crosslisted) MSE 1140
+Common Curriculum,Engineering Distribution,ENGRD,2210,Thermodynamics,"Fall, Summer",3,Fall: E. Fisher; Summer: Staff,(crosslisted) MAE 2210
+Core Classes,Electives,ECE,4510/5510,Electric Power Systems I,Fall,4,H.D. Chiang,
+Core Classes,Electives,ECE,4520/5550,Power Systems and Market Operations,Spring,3,L. Tong,
+Core Classes,Electives,ECE,4840/5840,Introduction to Controlled Fusion: Principles and Technology,Spring,3,D. Hammer,"(crosslisted) AEP 4840, MAE 4590"
