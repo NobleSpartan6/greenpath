@@ -1,4 +1,5 @@
 Category,Sub-Category,Dept,Course #,Title,Semester,Credit,Faculty,Crosslists
 Common Curriculum,ENGRI,ENGRI,3280,Materials: The Future of Energy,Fall,3,R.B. van Dover,(crosslisted) MSE 1141
 Common Curriculum,Engineering Distribution,ENGRD,4350,Thermodynamics,"Fall, Summer",3,Fall: E. Fisher; Summer: Staff,(crosslisted) MAE 2211
-Core Classes,Concentration Courses,MAE,3241,Heat Transfer,"Spring, Summer",4,Staff,
+Core Classes,Material Application Electives,CEE,4750/6751,Concrete Materials and Construction,Spring,3,K. Hover,
+Core Classes,Material Application Electives,ECE,4840/5841,Introduction to Controlled Fusion: Principles and Technology,Spring,3,D. Hammer,"(crosslisted) AEP 4840, MAE 4591"

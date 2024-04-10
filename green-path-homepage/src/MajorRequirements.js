@@ -11,7 +11,17 @@ const MajorRequirements = () => {
   const csvFilePaths = {
     'Computer Science': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_CS.csv`,
     'Electrical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_ECE.csv`,
-    // Add more paths for other majors here
+    'Engineering Physics' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Engineering_Physics.csv`,
+    'ORIE' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_ORIE.csv`,
+    'Mechanical Engineering' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Mechanical_Engineering.csv`,
+    'Material Science' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Material_Science.csv`,
+    'Information Science, Systems & Technology' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_ISST.csv`,
+    'Earth and Atmospheric Sciences' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_EAS.csv`,
+    'Civil Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Civil_Engineering.csv`,
+    'Chemeical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Chemical_Engineering.csv`,
+    'Biomedical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Biomedical_Engineering.csv`,
+    'Biological Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Biological_Engineering.csv`,
+    'Environmental Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Environmental_Engineering.csv`
   };
 
   useEffect(() => {
@@ -53,7 +63,7 @@ const MajorRequirements = () => {
             Semester: course.Semester?.trim(),
             Credit: course.Credit?.toString().trim(),
             Faculty: course.Faculty?.trim(),
-            Crosslists: course.Crosslists?.trim() || 'None',
+            Crosslists: course.Crosslists?.trim() || '',
           });
 
           return acc;
@@ -82,7 +92,7 @@ const MajorRequirements = () => {
           <Typography variant="body1">Offered in the {course.Semester}</Typography>
           <Typography variant="body1">{course.Credit} Credits</Typography>
           <Typography variant="body1">Faculty: {course.Faculty}</Typography>
-          <Typography variant="body1">Cross-lists with {course.Crosslists || 'None'}</Typography>
+          <Typography variant="body1">{course.Crosslists || ''}</Typography>
         </Box>
     ));
   };
