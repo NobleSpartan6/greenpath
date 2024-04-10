@@ -5,6 +5,8 @@ import MajorRequirements from './MajorRequirements';
 import theme from './theme';
 import './App.css';
 import Navbar from './Navbar';
+import CoursesPage from './CoursesPage';
+
 
 const HomePage = () => {
   return (
@@ -29,7 +31,6 @@ const HomePage = () => {
 };
 
 // Placeholder components for other routes
-const CoursesPage = () =><><Navbar/> <div class = "major-requirements">Courses Page Content</div></> ;
 const AboutPage = () => <><Navbar/><div class = "major-requirements">About Page Content</div>;</>
 
 function App() {
