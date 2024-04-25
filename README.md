@@ -16,7 +16,7 @@ Before setting up the project, ensure you have Node.js installed on your machine
 
 ```bash
 # Clone the repository
-git clone https://your-repository-url
+git clone https://github.com/NobleSpartan6/greenpath
 
 # Go into the project directory
 cd greenpath/green-path-homepage
