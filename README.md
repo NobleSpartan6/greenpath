@@ -74,7 +74,8 @@ To ensure the website's course listings are up-to-date, follow these steps to up
 ### 1. Locate the Correct CSV File
 
 - Find the CSV file that needs updating. The files are named after the major they represent, such as `Sustainability_Classes_Mechanical_Engineering.csv` for Mechanical Engineering.
-
+-** Note: Do not mistake the .csv files with the .xlsx `Sustainability Classes.xlsx - Biological Engineering.csv` as these were the original categorized files that needed to be reformated, hence the appearance of duplicate files.
+  
 ### 2. Edit the CSV File
 
 - Open the CSV file with a spreadsheet program that supports CSV formats, like Microsoft Excel or Google Sheets.
