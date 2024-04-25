@@ -58,6 +58,49 @@ Contributions to the project are welcome! To contribute, please follow these ste
 
 Please ensure you update tests as appropriate.
 
+## Data Management for Green Path
+
+Curerntly, the website sources the course catalog data using categorized .csv files. We opted for this approach as a means to speed up
+the development of our prototype.
+
+## Source of Data
+
+The Green Path website uses structured data in CSV files to store information about sustainability courses related to various engineering majors at Cornell University. These files are crucial for the Courses Page and Major Requirements components of the website.
+
+## Updating CSV Files
+
+To ensure the website's course listings are up-to-date, follow these steps to update the corresponding CSV files:
+
+### 1. Locate the Correct CSV File
+
+- Find the CSV file that needs updating. The files are named after the major they represent, such as `Sustainability_Classes_Mechanical_Engineering.csv` for Mechanical Engineering.
+
+### 2. Edit the CSV File
+
+- Open the CSV file with a spreadsheet program that supports CSV formats, like Microsoft Excel or Google Sheets.
+- Keep the data structure intact: headers, column order, and format.
+- Common columns include `Title`, `Dept`, `Course #`, `Credit`, `Semester`, `Faculty`, and `Crosslists`. Do not change these headers.
+
+### 3. Save and Validate
+
+- Save the file with UTF-8 encoding.
+- Validate the data to ensure all entries are correct and consistent, especially in key fields like `Dept` or `Semester`.
+
+### 4. Test Locally
+
+- Import the CSV file into your local development environment to test.
+- Check that the website parses the updated file and displays the information correctly.
+
+### 5. Upload the Updated File
+
+- Upload the updated CSV, replacing the old file in the correct directory.
+- Verify the file permissions for the website's server read access.
+
+### 6. Deploy and Verify
+
+- Redeploy the application or clear server caches if needed.
+- Confirm that the updates are visible and correct on the live site.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
