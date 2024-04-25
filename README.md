@@ -1,6 +1,6 @@
 # Green Path Homepage
 
-Welcome to Green Path, an educational portal designed for students at Cornell University. The website offers a platform to explore courses, understand major requirements, and connect with sustainability initiatives through Living Labs. This project is structured as a single-page application (SPA) using React and Material-UI.
+Welcome to Green Path, an educational portal designed for students at Cornell University. The website offers a platform to explore courses, understand major requirements, and connect with sustainability initiatives through Living Labs. This project is structured using React and Material-UI.
 
 ## Table of Contents
 
