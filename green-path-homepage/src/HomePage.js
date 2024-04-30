@@ -1,4 +1,3 @@
-// src/HomePage.js
 import React from 'react';
 import Navbar from './Navbar';
 import { Container, Typography, Link } from '@mui/material';
@@ -8,10 +7,26 @@ const HomePage = () => {
         <>
             <Navbar />
             <Container maxWidth="md" sx={{ marginTop: 4 }}>
-                <Typography variant="h2" gutterBottom>
+                <Typography variant="h1" gutterBottom>
                     Welcome to Green Path
                 </Typography>
-                <Typography variant="h5" sx={{ marginBottom: 2 }}>
+                <Typography variant="body1" paragraph>
+                    Welcome to Green Path, where your sustainable education journey begins. Find courses, explore majors, and build a future in sustainability through living labs.
+                </Typography>
+                <Typography variant="h2" gutterBottom>
+                    Get started with this video walkthrough!
+                </Typography>
+                <div className="video-container">
+                    <iframe
+                        className="responsive-iframe"
+                        src="https://www.youtube.com/embed/jTM9YpusMj8"
+                        title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerPolicy="strict-origin-when-cross-origin"
+                        allowFullScreen>
+                    </iframe>
+                </div>
+                <Typography variant="h5" sx={{ marginTop: 2, marginBottom: 2 }}>
                     What is a living lab?
                 </Typography>
                 <Typography variant="body1" paragraph>
