@@ -64,9 +64,9 @@ const CoursesPage = () => {
     };
 
     const uniqueDepartments = [...new Set(courses.map(course => course.Dept))].sort();
-    const uniqueCredits = [...new Set(courses.map(course => course.Credit))].sort((a, b) => a - b);
+    const uniqueCredits = [...new Set(courses.filter(course => typeof course.Credit !== 'string').map(course => course.Credit))].sort((a, b) => a - b);
     const uniqueSemesters = [...new Set(courses.map(course => course.Semester))].sort();
-
+    
     return (
         <>
             <Navbar />

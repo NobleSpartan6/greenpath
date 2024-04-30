@@ -8,7 +8,7 @@ const MajorRequirements = () => {
   const [selectedMajor, setSelectedMajor] = useState('');
   const [coursesByCategory, setCoursesByCategory] = useState({});
 
-  const csvFilePaths = {
+  const csvFilePaths_unsorted = {
     'Computer Science': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_CS.csv`,
     'Electrical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_ECE.csv`,
     'Engineering Physics' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Engineering_Physics.csv`,
@@ -18,11 +18,17 @@ const MajorRequirements = () => {
     'Information Science, Systems & Technology' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_ISST.csv`,
     'Earth and Atmospheric Sciences' : `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_EAS.csv`,
     'Civil Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Civil_Engineering.csv`,
-    'Chemeical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Chemical_Engineering.csv`,
+    'Chemical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Chemical_Engineering.csv`,
     'Biomedical Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Biomedical_Engineering.csv`,
     'Biological Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Biological_Engineering.csv`,
     'Environmental Engineering': `${process.env.PUBLIC_URL}/dataset/Sustainability_Classes_Environmental_Engineering.csv`
   };
+  const sortedKeys = Object.keys(csvFilePaths_unsorted).sort();
+  const csvFilePaths = {};
+  sortedKeys.forEach(key => {
+    csvFilePaths[key] = csvFilePaths_unsorted[key];
+  });
+  
 
   useEffect(() => {
     const parseCSV = (csvText) => {
